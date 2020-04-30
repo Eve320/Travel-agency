@@ -1,5 +1,5 @@
+
 .tropical{
-  background-color: #f7325e;
   color: #7dc410;
   font-family: fantasy;
   text-align: center;
@@ -8,4 +8,19 @@
 .popular{
   color: blue;
   font-style: italic;
+}
+.body{
+  text-align: center;
+  color: green;
+
+}
+.destination {
+  color: red;
+  font-family: calibri;
+
+}
+.story {
+  text-decoration: underline;
+  font-style: italic;
+  font-weight: lighter;
 }
