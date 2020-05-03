@@ -2,7 +2,7 @@
 .tropical{
   color: #7dc410;
   font-family: fantasy;
-  text-align: center;
+  
 
 }
 .popular{
@@ -23,4 +23,8 @@
   text-decoration: underline;
   font-style: italic;
   font-weight: lighter;
+}
+
+img{
+  float: left;
 }
